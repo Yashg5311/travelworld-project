@@ -17,7 +17,7 @@
 
 ![Screenshot (11)](https://github.com/Yashg5311/travelworld-project/assets/91370994/6a72b3c2-3e8d-430c-a1d9-c29bb0920de0)
 
-## MERN Stack Group Expense Splitting Application
+## MERN Stack Travel Booking Website
 
   * [Introduction](#introduction)
   * [Key Features](#key-features)
