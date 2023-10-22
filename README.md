@@ -9,7 +9,7 @@
   <p align="center">
     Build with the MERN stack (MongoDB, Express, React and NodeJS).
     <br />
-    <a href="https://github.com/Yashg5311/travelworld-project"><strong>Explore the Project »</strong></a>
+    <a href="https://travelworld-cwkp.onrender.com/home"><strong>Explore the Project »</strong></a>
     <br />
     <br />
   </p>
